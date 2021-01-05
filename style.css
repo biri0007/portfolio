@@ -1,23 +1,64 @@
 body {
-    margin: 50px;
-    background-color: azure;
+    margin: 20px;
+    background-color: white;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+nav {
+    text-align: center;
+    display: block;
+}
+
+a:link {
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 300;
+    letter-spacing: 0.07rem;
+}
+
+a:visited {
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+a:active {
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
 
 
 /*media query = desktop*/
 @media screen and (min-width: 600px) {
 
-    body {
-        margin: 160px;
+    nav {
+        position: fixed;
+        top: 0;
+        width: 100%;
         background-color: white;
     }
-
 
     #portfolio {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr;
-        gap: 10px 20px;
+        gap: 15px 20px;
+        margin: 50px 60px;
     }
 
     .img1 {
@@ -48,12 +89,6 @@ body {
     .img6 {
         grid-column: 3/4;
         grid-row: 2/3;
-    }
-
-    #portfolio img {
-        display: block;
-        object-fit: cover;
-        height: 100%;
     }
 
 
