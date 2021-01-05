@@ -1,5 +1,5 @@
 body {
-    margin: 20px;
+    margin: 0 auto;
     background-color: white;
 }
 
@@ -48,6 +48,8 @@ a:active {
         top: 0;
         width: 100%;
         background-color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
 
     #portfolio {
@@ -55,7 +57,7 @@ a:active {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr;
         gap: 15px 20px;
-        margin: 50px 60px;
+        margin: 80px 60px;
     }
 
     .img1 {
