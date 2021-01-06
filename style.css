@@ -9,6 +9,10 @@ img {
 }
 
 
+.hide {
+    visibility: hidden;
+}
+
 
 /* MENU */
 
@@ -29,6 +33,12 @@ nav {
 nav a {
     padding: 20px;
 }
+
+
+
+
+
+/* STYLING AF LINKS */
 
 
 a:link {
@@ -54,7 +64,9 @@ a:active {
 }
 
 
-
+#footer_link {
+    font-size: 0.9rem;
+}
 
 /* GALLERI */
 
@@ -101,7 +113,19 @@ a:active {
         letter-spacing: 0.07rem;
     }
 
+    a:link {
+        color: #000000;
+        text-decoration: none;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 1.2rem;
+        font-weight: 200;
+        letter-spacing: 0.07rem;
+    }
 
+    a:hover {
+        color: #000000;
+        text-decoration: underline;
+    }
 
 
     /* PORTFOLIO GALLERI */
