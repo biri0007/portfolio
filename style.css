@@ -11,8 +11,11 @@ img {
 
 
 nav {
+    background-color: white;
     text-align: center;
     display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 a:link {
@@ -40,6 +43,13 @@ a:active {
 
 
 
+#portfolio {
+    margin: 0 15px;
+}
+
+
+
+
 /*media query = desktop*/
 @media screen and (min-width: 600px) {
 
@@ -47,9 +57,19 @@ a:active {
         position: fixed;
         top: 0;
         width: 100%;
-        background-color: white;
-        padding-top: 20px;
-        padding-bottom: 20px;
+        padding-top: 15px;
+
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    nav a {
+        padding: 0px 15px;
+    }
+
+    burgermenu {
+        visibility: hidden;
     }
 
     #portfolio {
@@ -57,7 +77,7 @@ a:active {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr;
         gap: 15px 20px;
-        margin: 80px 60px;
+        margin: 62px 60px 30px;
     }
 
     .img1 {
