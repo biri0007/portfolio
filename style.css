@@ -51,11 +51,6 @@ a:visited {
     color: #000000;
 }
 
-a:hover {
-    color: #000000;
-    text-decoration: underline;
-}
-
 a:active {
     color: #000000;
 }
@@ -139,9 +134,10 @@ a:active {
         letter-spacing: 0.07rem;
     }
 
-    a:hover {
+    nav a:hover:nth-child(odd) {
         color: #000000;
-        text-decoration: underline;
+        /*text-decoration: underline;*/
+        border-bottom: 1px solid;
     }
 
 
