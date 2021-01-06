@@ -3,6 +3,17 @@ body {
     background-color: white;
 }
 
+
+p {
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 200;
+    letter-spacing: 0.05rem;
+}
+
+
 img {
     max-width: 100%;
     height: auto;
@@ -57,7 +68,7 @@ a:active {
 
 
 #footer_link {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     display: block;
     text-align: center;
 }
@@ -137,7 +148,7 @@ a:active {
     nav a:hover:nth-child(odd) {
         color: #000000;
         /*text-decoration: underline;*/
-        border-bottom: 1px solid;
+        border-bottom: 1px solid #a0a0a0;
     }
 
 
