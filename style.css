@@ -209,9 +209,17 @@ a:active {
     /* OM */
 
     #om {
-        display: flex;
-        justify-content: center;
-        margin-top: 97px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 97px 80px;
+    }
+
+    #col1 {
+        grid-column: 1/2;
+    }
+
+    #col2 {
+        grid-column: 2/2;
     }
 
 
