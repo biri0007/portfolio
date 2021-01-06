@@ -204,4 +204,18 @@ a:active {
     }
 
 
+
+
+    /* OM */
+
+    #om {
+        display: flex;
+        justify-content: center;
+        margin-top: 97px;
+    }
+
+
+
+
+
 }
