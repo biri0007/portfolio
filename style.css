@@ -36,10 +36,7 @@ nav a {
 
 
 
-
-
 /* STYLING AF LINKS */
-
 
 a:link {
     color: #000000;
@@ -68,11 +65,28 @@ a:active {
     font-size: 0.9rem;
 }
 
-/* GALLERI */
+
+
+/* FORSIDE */
+
+#slidegalleri {
+    margin: 15px;
+}
+
+
+
+
+/* PORTFOLIO */
 
 #portfolio {
     margin: 0 15px;
 }
+
+
+
+
+
+
 
 
 
@@ -128,7 +142,25 @@ a:active {
     }
 
 
-    /* PORTFOLIO GALLERI */
+
+
+
+    /* FORSIDE */
+    #slidegalleri {
+        display: flex;
+        justify-content: center;
+        margin: 15px;
+    }
+
+    #slidegalleri img {
+        width: 80vw;
+    }
+
+
+
+
+
+    /* PORTFOLIO */
 
     #portfolio {
         display: grid;
