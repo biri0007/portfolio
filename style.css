@@ -63,6 +63,8 @@ a:active {
 
 #footer_link {
     font-size: 0.9rem;
+    display: block;
+    text-align: center;
 }
 
 
@@ -100,7 +102,8 @@ a:active {
         top: 0;
         width: 100%;
         height: auto;
-        padding-top: 15px;
+        padding-top: 35px;
+        padding-bottom: 25px;
         margin: 0;
 
         display: flex;
@@ -149,7 +152,7 @@ a:active {
     #slidegalleri {
         display: flex;
         justify-content: center;
-        margin: 15px;
+        margin-top: 97px;
     }
 
     #slidegalleri img {
@@ -167,7 +170,7 @@ a:active {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr;
         gap: 15px 20px;
-        margin: 62px 60px 30px;
+        margin: 97px 20px 30px;
     }
 
     .img1 {
