@@ -283,8 +283,9 @@ a:active {
         margin: 110px 80px;
     }
 
-    #tema2 col2 {}
-
+    #picinfo {
+        text-align: center;
+    }
 
 }
 
