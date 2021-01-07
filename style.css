@@ -279,11 +279,20 @@ a:active {
 
     #om_tema {
         display: grid;
-        grid-template-columns: 2fr 3fr;
+        grid-template-columns: 1fr 1fr;
         margin: 110px 80px;
     }
 
     #tema2 col2 {}
 
 
+}
+
+
+
+
+/* TEMA 3 */
+
+#prototype {
+    width: 75%;
 }
