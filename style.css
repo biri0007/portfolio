@@ -3,6 +3,10 @@ body {
     background-color: white;
 }
 
+header img {
+    width: 115px;
+}
+
 
 p {
     color: #000000;
