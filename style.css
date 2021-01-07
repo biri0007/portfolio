@@ -102,6 +102,10 @@ footer img {
     width: 80px;
 }
 
+#herknap {
+    width: 35px;
+}
+
 
 
 /* FORSIDE */
@@ -211,6 +215,10 @@ footer img {
         width: 90px;
     }
 
+
+    #herknap {
+        width: 40px;
+    }
 
 
 
