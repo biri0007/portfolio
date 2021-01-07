@@ -8,9 +8,10 @@ p {
     color: #000000;
     text-decoration: none;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 200;
     letter-spacing: 0.05rem;
+    line-height: 1.4rem;
 }
 
 
@@ -18,12 +19,17 @@ h1 {
     font-family: temeraire, serif;
     font-weight: 400;
     font-style: normal;
+    margin: auto;
+    font-size: 1.6rem;
 }
 
 h2 {
     font-family: temeraire, serif;
     font-weight: 400;
     font-style: normal;
+    margin: 0;
+    line-height: 0;
+    font-size: 1rem;
 }
 
 
@@ -36,6 +42,7 @@ img {
 .hide {
     visibility: hidden;
 }
+
 
 
 /* MENU */
@@ -107,6 +114,10 @@ a:active {
 
 
 
+/* TEMA-SIDER */
+#om_tema {
+    margin: 0px 20px;
+}
 
 
 
@@ -116,6 +127,26 @@ a:active {
 /*********** MEDIA QUERY TIL DESKTOP ***********/
 
 @media screen and (min-width: 600px) {
+
+
+    p {
+        color: #000000;
+        text-decoration: none;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 1.1rem;
+        font-weight: 200;
+        letter-spacing: 0.05rem;
+        line-height: 1.4rem;
+    }
+
+    h1 {
+        font-family: temeraire, serif;
+        font-weight: 400;
+        font-style: normal;
+        margin: auto;
+        font-size: 2rem;
+    }
+
 
     /* MENU */
 
@@ -180,7 +211,7 @@ a:active {
     }
 
     #slidegalleri img {
-        width: 60vw;
+        width: 70vw;
         border-radius: 20deg;
     }
 
@@ -248,10 +279,11 @@ a:active {
 
     #om_tema {
         display: grid;
-        grid-template-columns: 1fr 2fr;
-        margin-top: 110px;
-        line-height: 0.5rem;
+        grid-template-columns: 2fr 3fr;
+        margin: 110px 80px;
     }
+
+    #tema2 col2 {}
 
 
 }
