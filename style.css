@@ -98,6 +98,10 @@ a:active {
     padding-bottom: 20px;
 }
 
+footer img {
+    width: 80px;
+}
+
 
 
 /* FORSIDE */
@@ -202,6 +206,10 @@ a:active {
         border-bottom: 1px solid #a0a0a0;
     }
 
+
+    footer img {
+        width: 90px;
+    }
 
 
 
