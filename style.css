@@ -158,7 +158,6 @@ footer img {
     transform: rotate(24.8deg);
 }
 
-
 #t {
     position: absolute;
     width: 20px;
@@ -182,6 +181,7 @@ footer img {
     left: 47.8vw;
     transform: rotate(-13.5deg);
 }
+
 
 #y {
     position: absolute;
@@ -242,6 +242,7 @@ footer img {
     left: 73.2vw;
     transform: rotate(-11.2deg);
 }
+
 
 #p {
     position: absolute;
@@ -353,6 +354,8 @@ footer img {
 
 
 /* KEYFRAMES FOR FORSIDE */
+
+/*
 .b {
     animation-name: b_kf;
     animation-duration: 3s;
@@ -692,7 +695,7 @@ footer img {
         opacity: 100%;
     }
 }
-
+*/
 
 
 
