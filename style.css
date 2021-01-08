@@ -54,7 +54,6 @@ img {
 
 nav {
     background-color: white;
-    text-align: center;
     height: 100vh;
     padding: 10px;
     margin-top: 60px;
@@ -434,7 +433,7 @@ footer img {
     }
 
     nav a {
-        padding: 0px 15px;
+        padding: 10px 15px;
     }
 
     #link1 {
@@ -472,11 +471,12 @@ footer img {
         letter-spacing: 0.07rem;
     }
 
-    nav a:hover:nth-child(odd) {
+    nav a:hover:nth-child(n+2) {
         color: #000000;
         /*text-decoration: underline;*/
-        border-bottom: 1px solid #a0a0a0;
+        border-bottom: 1px solid #989898;
     }
+
 
 
     footer img {
