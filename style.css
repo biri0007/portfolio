@@ -43,6 +43,11 @@ img {
 }
 
 
+.hidden {
+    opacity: 0;
+}
+
+
 .hide {
     visibility: hidden;
 }
@@ -52,7 +57,7 @@ img {
 /* MENU */
 
 
-nav {
+#menu {
     background-color: white;
     height: 100vh;
     padding: 10px;
@@ -65,8 +70,8 @@ nav {
 }
 
 
-burgermenu {
-    visibility: hidden;
+#menuknap {
+    display: inline-block;
 }
 
 
@@ -372,7 +377,6 @@ footer img {
 
 
 
-
 /*********** MEDIA QUERY TIL DESKTOP ***********/
 
 @media screen and (min-width: 600px) {
@@ -398,8 +402,15 @@ footer img {
 
 
     /* MENU */
+    #menuknap {
+        display: none;
+    }
 
-    nav {
+    #menu.hidden {
+        opacity: 1;
+    }
+
+    #menu {
         position: fixed;
         top: 0;
         width: 100%;
@@ -413,9 +424,6 @@ footer img {
         justify-content: center;
     }
 
-    /* nav a {
-        padding: 10px 15px;
-    }*/
 
     #link1 {
         order: 2;
@@ -429,9 +437,6 @@ footer img {
         order: 3;
     }
 
-    burgermenu {
-        visibility: hidden;
-    }
 
 
     a:link {
