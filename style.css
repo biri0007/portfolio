@@ -110,7 +110,7 @@ footer img {
 
 /* FORSIDE */
 
-.b {
+#b {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -122,7 +122,7 @@ footer img {
     transform: rotate(-22.2deg);
 }
 
-.i {
+#i {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -134,7 +134,7 @@ footer img {
     transform: rotate(-4.2deg);
 }
 
-.r {
+#r {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -146,7 +146,7 @@ footer img {
     transform: rotate(11.8deg);
 }
 
-.i2 {
+#i2 {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -159,7 +159,7 @@ footer img {
 }
 
 
-.t {
+#t {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -171,7 +171,7 @@ footer img {
     transform: rotate(12.8deg);
 }
 
-.a {
+#a {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -183,7 +183,7 @@ footer img {
     transform: rotate(-13.5deg);
 }
 
-.y {
+#y {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -195,7 +195,7 @@ footer img {
     transform: rotate(8.8deg);
 }
 
-.o {
+#o {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -207,7 +207,7 @@ footer img {
     transform: rotate(17.8deg);
 }
 
-.o2 {
+#o2 {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -219,7 +219,7 @@ footer img {
     transform: rotate(27.8deg);
 }
 
-.n {
+#n {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -231,7 +231,7 @@ footer img {
     transform: rotate(3.8deg);
 }
 
-.s {
+#s {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -243,7 +243,7 @@ footer img {
     transform: rotate(-11.2deg);
 }
 
-.p {
+#p {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -255,7 +255,7 @@ footer img {
     transform: rotate(-18.2deg);
 }
 
-.o3 {
+#o3 {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -267,7 +267,7 @@ footer img {
     transform: rotate(-2.2deg);
 }
 
-.r2 {
+#r2 {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -279,7 +279,7 @@ footer img {
     transform: rotate(35.8deg);
 }
 
-.t2 {
+#t2 {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -291,7 +291,7 @@ footer img {
     transform: rotate(8.8deg);
 }
 
-.f {
+#f {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -303,7 +303,7 @@ footer img {
     transform: rotate(-2.2deg);
 }
 
-.o4 {
+#o4 {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -315,7 +315,7 @@ footer img {
     transform: rotate(-2.2deg);
 }
 
-.l {
+#l {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -327,7 +327,7 @@ footer img {
     transform: rotate(27.8deg);
 }
 
-.i3 {
+#i3 {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -339,7 +339,7 @@ footer img {
     transform: rotate(26.8deg);
 }
 
-.o5 {
+#o5 {
     position: absolute;
     width: 20px;
     height: 20px;
