@@ -99,6 +99,7 @@ a:link {
     font-size: 1.5rem;
     font-weight: 200;
     letter-spacing: 0.07rem;
+    padding: 30px;
 }
 
 a:visited {
@@ -432,9 +433,9 @@ footer img {
         justify-content: center;
     }
 
-    nav a {
+    /* nav a {
         padding: 10px 15px;
-    }
+    }*/
 
     #link1 {
         order: 2;
@@ -460,15 +461,7 @@ footer img {
         font-size: 1.2rem;
         font-weight: 300;
         letter-spacing: 0.07rem;
-    }
-
-    a:link {
-        color: #000000;
-        text-decoration: none;
-        font-family: 'Source Sans Pro', sans-serif;
-        font-size: 1.2rem;
-        font-weight: 200;
-        letter-spacing: 0.07rem;
+        padding: 10px 15px;
     }
 
     nav a:hover:nth-child(n+2) {
