@@ -110,9 +110,293 @@ footer img {
 
 /* FORSIDE */
 
+/*
 #slidegalleri {
     margin: 15px;
 }
+*/
+
+/*
+#animation img {
+    width: 20px;
+}
+*/
+
+/*midlertidig margin-top for at kunne se wtf im doing lol*/
+#animation {
+    margin-top: 100px;
+}
+
+
+
+
+
+/*birita*/
+.b {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/b.png);
+    background-size: 100%;
+
+    top: 25.6vw;
+    left: 28.9vw;
+    transform: rotate(-41.2deg);
+}
+
+.i {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/i.png);
+    background-size: 100%;
+
+    top: 23.4vw;
+    left: 31vw;
+    transform: rotate(-30.1deg);
+}
+
+.r {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/r.png);
+    background-size: 100%;
+
+    top: 21.4vw;
+    left: 34.2vw;
+    transform: rotate(-21.7deg);
+}
+
+.i2 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/i.png);
+    background-size: 100%;
+
+    top: 20.5vw;
+    left: 38.1vw;
+    transform: rotate(4.8deg);
+}
+
+
+.t {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/t.png);
+    background-size: 100%;
+
+    top: 20.4vw;
+    left: 41.9vw;
+    transform: rotate(17.9deg);
+}
+
+.a {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/a.png);
+    background-size: 100%;
+
+    top: 21.6vw;
+    left: 46vw;
+    transform: rotate(26deg);
+}
+
+
+/*yoon*/
+.y {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/y.png);
+    background-size: 100%;
+
+    top: 25vw;
+    left: 54.5vw;
+    transform: rotate(40.8deg);
+}
+
+.o {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/o.png);
+    background-size: 100%;
+
+    top: 26.8vw;
+    left: 58vw;
+    transform: rotate(26.1deg);
+}
+
+.o2 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/o.png);
+    background-size: 100%;
+
+    top: 28vw;
+    left: 61.9vw;
+    transform: rotate(21.2deg);
+}
+
+.n {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/n.png);
+    background-size: 100%;
+
+    top: 28vw;
+    left: 66.2vw;
+    transform: rotate(-0.8deg);
+}
+
+.s {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/s.png);
+    background-size: 100%;
+
+    top: 27.1vw;
+    left: 70.2vw;
+    transform: rotate(-24.2deg);
+}
+
+
+/*portfolio*/
+.p {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/p.png);
+    background-size: 100%;
+
+    top: 40vw;
+    left: 20vw;
+    transform: rotate(-2.2deg);
+}
+
+.o3 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/o.png);
+    background-size: 100%;
+
+    top: 40vw;
+    left: 25vw;
+    transform: rotate(-2.2deg);
+}
+
+.r2 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/r.png);
+    background-size: 100%;
+
+    top: 40vw;
+    left: 30vw;
+    transform: rotate(-2.2deg);
+}
+
+.t2 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/t.png);
+    background-size: 100%;
+
+    top: 40vw;
+    left: 35vw;
+    transform: rotate(-2.2deg);
+}
+
+.f {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/f.png);
+    background-size: 100%;
+
+    top: 40vw;
+    left: 40vw;
+    transform: rotate(-2.2deg);
+}
+
+.o4 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/o.png);
+    background-size: 100%;
+
+    top: 40vw;
+    left: 45vw;
+    transform: rotate(-2.2deg);
+}
+
+.l {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/l.png);
+    background-size: 100%;
+
+    top: 40vw;
+    left: 50vw;
+    transform: rotate(-2.2deg);
+}
+
+.i3 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/i.png);
+    background-size: 100%;
+
+    top: 40vw;
+    left: 55vw;
+    transform: rotate(-2.2deg);
+}
+
+.o5 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-image: url(billeder/bogstaver/o.png);
+    background-size: 100%;
+
+    top: 40vw;
+    left: 60vw;
+    transform: rotate(-2.2deg);
+}
+
+
+
+/*
+.b {
+    animation-name: b_kf;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes b_kf {
+    0% {
+        transform: translatey(-15vw);
+    }
+
+    100% {
+        transform: translateY(15vw);
+    }
+}
+*/
 
 
 
@@ -286,6 +570,7 @@ footer img {
 
     #col1 {
         grid-column: 1/2;
+        padding: 20px;
     }
 
     #col2 {
