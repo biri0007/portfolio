@@ -51,6 +51,7 @@ img {
 
 /* MENU */
 
+
 nav {
     background-color: white;
     text-align: center;
@@ -61,15 +62,34 @@ nav {
     position: relative;
     display: flex;
     flex-direction: column;
-    /*justify-content: space-around;*/
+    align-items: center;
+}
+
+
+burgermenu {
+    visibility: hidden;
+}
+
+
+
+/*
+nav {
+    background-color: white;
+    text-align: center;
+    height: 100vh;
+    padding: 10px;
+    margin-top: 60px;
+
+    position: relative;
+    display: flex;
+    flex-direction: column;
     align-content: center;
 }
 
 nav a {
     padding: 20px;
 }
-
-
+*/
 
 /* STYLING AF LINKS */
 
@@ -417,6 +437,17 @@ footer img {
         padding: 0px 15px;
     }
 
+    #link1 {
+        order: 2;
+    }
+
+    #link2 {
+        order: 1;
+    }
+
+    #link3 {
+        order: 3;
+    }
 
     burgermenu {
         visibility: hidden;
