@@ -461,17 +461,6 @@ footer img {
 
     /* FORSIDE */
 
-    #slidegalleri {
-        display: flex;
-        justify-content: center;
-        margin-top: 97px;
-    }
-
-    #slidegalleri img {
-        width: 70vw;
-        border-radius: 20deg;
-    }
-
 
 
 
