@@ -131,7 +131,7 @@ footer img {
 
 
 
-/*birita*/
+/*birita yoons*/
 .b {
     position: absolute;
     width: 20px;
@@ -139,9 +139,9 @@ footer img {
     background-image: url(billeder/bogstaver/b.png);
     background-size: 100%;
 
-    top: 25.6vw;
-    left: 28.9vw;
-    transform: rotate(-41.2deg);
+    top: 21.6vw;
+    left: 24.8vw;
+    transform: rotate(-22.2deg);
 }
 
 .i {
@@ -151,9 +151,9 @@ footer img {
     background-image: url(billeder/bogstaver/i.png);
     background-size: 100%;
 
-    top: 23.4vw;
-    left: 31vw;
-    transform: rotate(-30.1deg);
+    top: 19.5vw;
+    left: 28.8vw;
+    transform: rotate(-4.2deg);
 }
 
 .r {
@@ -163,9 +163,9 @@ footer img {
     background-image: url(billeder/bogstaver/r.png);
     background-size: 100%;
 
-    top: 21.4vw;
-    left: 34.2vw;
-    transform: rotate(-21.7deg);
+    top: 19.1vw;
+    left: 33.4vw;
+    transform: rotate(11.8deg);
 }
 
 .i2 {
@@ -175,9 +175,9 @@ footer img {
     background-image: url(billeder/bogstaver/i.png);
     background-size: 100%;
 
-    top: 20.5vw;
+    top: 19.8vw;
     left: 38.1vw;
-    transform: rotate(4.8deg);
+    transform: rotate(24.8deg);
 }
 
 
@@ -188,9 +188,9 @@ footer img {
     background-image: url(billeder/bogstaver/t.png);
     background-size: 100%;
 
-    top: 20.4vw;
-    left: 41.9vw;
-    transform: rotate(17.9deg);
+    top: 21.2vw;
+    left: 42.6vw;
+    transform: rotate(12.8deg);
 }
 
 .a {
@@ -200,13 +200,13 @@ footer img {
     background-image: url(billeder/bogstaver/a.png);
     background-size: 100%;
 
-    top: 21.6vw;
-    left: 46vw;
-    transform: rotate(26deg);
+    top: 19.8vw;
+    left: 47.8vw;
+    transform: rotate(-13.5deg);
 }
 
 
-/*yoon*/
+
 .y {
     position: absolute;
     width: 20px;
@@ -214,9 +214,9 @@ footer img {
     background-image: url(billeder/bogstaver/y.png);
     background-size: 100%;
 
-    top: 25vw;
-    left: 54.5vw;
-    transform: rotate(40.8deg);
+    top: 19vw;
+    left: 55.5vw;
+    transform: rotate(8.8deg);
 }
 
 .o {
@@ -226,9 +226,9 @@ footer img {
     background-image: url(billeder/bogstaver/o.png);
     background-size: 100%;
 
-    top: 26.8vw;
-    left: 58vw;
-    transform: rotate(26.1deg);
+    top: 19.1vw;
+    left: 60vw;
+    transform: rotate(17.8deg);
 }
 
 .o2 {
@@ -238,9 +238,9 @@ footer img {
     background-image: url(billeder/bogstaver/o.png);
     background-size: 100%;
 
-    top: 28vw;
-    left: 61.9vw;
-    transform: rotate(21.2deg);
+    top: 20.6vw;
+    left: 64vw;
+    transform: rotate(27.8deg);
 }
 
 .n {
@@ -250,9 +250,9 @@ footer img {
     background-image: url(billeder/bogstaver/n.png);
     background-size: 100%;
 
-    top: 28vw;
-    left: 66.2vw;
-    transform: rotate(-0.8deg);
+    top: 20.5vw;
+    left: 69vw;
+    transform: rotate(3.8deg);
 }
 
 .s {
@@ -262,9 +262,9 @@ footer img {
     background-image: url(billeder/bogstaver/s.png);
     background-size: 100%;
 
-    top: 27.1vw;
-    left: 70.2vw;
-    transform: rotate(-24.2deg);
+    top: 19.2vw;
+    left: 73.2vw;
+    transform: rotate(-11.2deg);
 }
 
 
