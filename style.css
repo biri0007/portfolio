@@ -12,7 +12,7 @@ p {
     color: #000000;
     text-decoration: none;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: 200;
     letter-spacing: 0.05rem;
     line-height: 1.4rem;
@@ -24,7 +24,7 @@ h1 {
     font-weight: 400;
     font-style: normal;
     margin: auto;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
 }
 
 h2 {
@@ -33,7 +33,7 @@ h2 {
     font-style: normal;
     margin: 0;
     line-height: 0.8;
-    font-size: 1rem;
+    font-size: .9rem;
 }
 
 
@@ -88,7 +88,7 @@ a:active {
 
 p a:link {
     text-decoration: underline;
-    font-size: 1rem;
+    font-size: 0.8rem;
     padding: 0;
 }
 
@@ -413,6 +413,15 @@ footer img {
         font-size: 2rem;
     }
 
+    h2 {
+        font-family: temeraire, serif;
+        font-weight: 400;
+        font-style: normal;
+        margin: 0;
+        line-height: 0.8;
+        font-size: 1rem;
+    }
+
 
     /* MENU */
 
@@ -424,6 +433,7 @@ footer img {
         padding-top: 35px;
         padding-bottom: 25px;
         margin: 0;
+        background-color: white;
 
         display: flex;
         flex-direction: row;
@@ -442,7 +452,7 @@ footer img {
         padding: 10px 15px;
     }
 
-    nav a:hover:nth-child(n+2) {
+    nav a:hover:nth-child(odd) {
         color: #000000;
         /*text-decoration: underline;*/
         border-bottom: 1px solid #989898;
