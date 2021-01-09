@@ -382,10 +382,16 @@ footer img {
 
 
 
+/* OM MIG */
+#om {
+    margin: 40px 30px;
+}
+
+
 
 /* TEMA-SIDER */
 #om_tema1 {
-    margin: 0px 20px;
+    margin: 40px 30px;
 }
 
 #om_tema2 {
@@ -529,7 +535,16 @@ footer img {
 
 
 
-    /* OM */
+    /* OM MIG */
+    #om {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 110px 130px 0px 130px;
+    }
+
+
+
+    /* OM TEMAERNE */
 
 
     #om_tema1 {
@@ -542,6 +557,7 @@ footer img {
         display: grid;
         grid-template-columns: 1fr 1fr;
         margin: 0px 80px;
+        padding-bottom: 20px;
     }
 
     #col1 {
