@@ -383,10 +383,13 @@ footer img {
 
 
 /* TEMA-SIDER */
-#om_tema {
+#om_tema1 {
     margin: 0px 20px;
 }
 
+#om_tema2 {
+    margin: 20px 20px 0 20px;
+}
 
 
 
@@ -527,10 +530,17 @@ footer img {
 
     /* OM */
 
-    #om {
+
+    #om_tema1 {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 97px 80px;
+        margin: 110px 80px 0px 80px;
+    }
+
+    #om_tema2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 0px 80px;
     }
 
     #col1 {
@@ -540,18 +550,9 @@ footer img {
 
     #col2 {
         grid-column: 2/2;
+        padding: 20px;
     }
 
-
-
-
-    /* om temaerne */
-
-    #om_tema {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        margin: 110px 80px;
-    }
 
     #picinfo {
         text-align: center;
