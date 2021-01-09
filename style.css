@@ -101,6 +101,14 @@ a:active {
     padding: 10px 0 50px;
 }
 
+p a:link {
+    text-decoration: underline;
+    font-size: 1rem;
+    padding: 0;
+}
+
+
+
 
 #footer_link {
     font-size: 0.8rem;
@@ -463,6 +471,10 @@ footer img {
     }
 
 
+    p a:link {
+        text-decoration: underline;
+        font-size: 1.1rem;
+    }
 
     footer img {
         width: 90px;
