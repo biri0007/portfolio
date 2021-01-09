@@ -64,18 +64,6 @@ img {
     justify-content: center;
 }
 
-/*
-#menu {
-    background-color: white;
-    height: 100vh;
-    width: 100%;
-    position: fixed;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    z-index: 1;
-}*/
-
 
 /* STYLING AF LINKS */
 
@@ -83,7 +71,7 @@ a:link {
     color: #000000;
     text-decoration: none;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-weight: 200;
     letter-spacing: 0.07rem;
     padding: 10px;
@@ -103,7 +91,6 @@ p a:link {
     font-size: 1rem;
     padding: 0;
 }
-
 
 
 
@@ -380,19 +367,25 @@ footer img {
 
 /* OM MIG */
 #om {
-    margin: 40px 30px;
+    margin: 0px 30px 40px;
 }
 
 
 
 /* TEMA-SIDER */
 #om_tema1 {
-    margin: 40px 30px;
+    margin: 0px 30px 40px;
 }
 
 #om_tema2 {
     margin: 20px 20px 0 20px;
 }
+
+
+
+
+
+
 
 
 
