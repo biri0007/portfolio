@@ -59,21 +59,22 @@ img {
 #menu {
     background-color: white;
     height: 100vh;
-    padding: 10px;
-
-    position: relative;
+    width: 100%;
+    position: fixed;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-left: 25%;
+    z-index: 1;
 }
 
 
 #menuknap {
+    position: relative;
     display: inline-block;
     float: right;
     padding: 20px 30px;
     font-size: 1.5rem;
+    z-index: 100;
 }
 
 
