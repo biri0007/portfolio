@@ -555,11 +555,7 @@ footer img {
 
 }
 
-
-
-
-/* TEMA 3 */
-
 #prototype {
-    width: 75%;
+    display: flex;
+    justify-content: center;
 }
