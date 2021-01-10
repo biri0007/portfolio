@@ -799,10 +799,17 @@ footer img {
 
 
     /* OM MIG */
+
+    #meee {
+        display: flex;
+        justify-content: center;
+        margin: 80px 40px 0px;
+    }
+
     #om {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 110px 40px 0px;
+        margin: 20px 40px;
     }
 
 
@@ -853,7 +860,7 @@ footer img {
     #om {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 110px 230px 0px;
+        margin: 20px 190px 0px;
     }
 
 
@@ -877,6 +884,13 @@ footer img {
         grid-template-rows: 1fr 1fr;
         gap: 15px 20px;
         margin: 97px 200px 30px;
+    }
+
+
+    #om {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 20px 350px 0px;
     }
 
 
