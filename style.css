@@ -120,8 +120,8 @@ footer img {
     background-image: url(billeder/bogstaver/b.png);
     background-size: 100%;
 
-    top: 21.6vw;
-    left: 24.8vw;
+    top: 41.6vw;
+    left: 14.8vw;
     transform: rotate(-22.2deg);
 }
 
@@ -132,8 +132,8 @@ footer img {
     background-image: url(billeder/bogstaver/i.png);
     background-size: 100%;
 
-    top: 19.5vw;
-    left: 28.8vw;
+    top: 39.5vw;
+    left: 19.8vw;
     transform: rotate(-4.2deg);
 }
 
@@ -144,8 +144,8 @@ footer img {
     background-image: url(billeder/bogstaver/r.png);
     background-size: 100%;
 
-    top: 19.1vw;
-    left: 33.4vw;
+    top: 39.1vw;
+    left: 24.4vw;
     transform: rotate(11.8deg);
 }
 
@@ -156,8 +156,8 @@ footer img {
     background-image: url(billeder/bogstaver/i.png);
     background-size: 100%;
 
-    top: 19.8vw;
-    left: 38.1vw;
+    top: 39.8vw;
+    left: 29.1vw;
     transform: rotate(24.8deg);
 }
 
@@ -168,8 +168,8 @@ footer img {
     background-image: url(billeder/bogstaver/t.png);
     background-size: 100%;
 
-    top: 21.2vw;
-    left: 42.6vw;
+    top: 41.2vw;
+    left: 33.6vw;
     transform: rotate(12.8deg);
 }
 
@@ -180,8 +180,8 @@ footer img {
     background-image: url(billeder/bogstaver/a.png);
     background-size: 100%;
 
-    top: 19.8vw;
-    left: 47.8vw;
+    top: 39.8vw;
+    left: 40.8vw;
     transform: rotate(-13.5deg);
 }
 
@@ -193,8 +193,8 @@ footer img {
     background-image: url(billeder/bogstaver/y.png);
     background-size: 100%;
 
-    top: 19vw;
-    left: 55.5vw;
+    top: 54.5vw;
+    left: 40.5vw;
     transform: rotate(8.8deg);
 }
 
@@ -205,8 +205,8 @@ footer img {
     background-image: url(billeder/bogstaver/o.png);
     background-size: 100%;
 
-    top: 19.1vw;
-    left: 60vw;
+    top: 54.6vw;
+    left: 46vw;
     transform: rotate(17.8deg);
 }
 
@@ -217,8 +217,8 @@ footer img {
     background-image: url(billeder/bogstaver/o.png);
     background-size: 100%;
 
-    top: 20.6vw;
-    left: 64vw;
+    top: 56.3vw;
+    left: 51vw;
     transform: rotate(27.8deg);
 }
 
@@ -229,8 +229,8 @@ footer img {
     background-image: url(billeder/bogstaver/n.png);
     background-size: 100%;
 
-    top: 20.5vw;
-    left: 69vw;
+    top: 56.5vw;
+    left: 58vw;
     transform: rotate(3.8deg);
 }
 
@@ -241,8 +241,8 @@ footer img {
     background-image: url(billeder/bogstaver/s.png);
     background-size: 100%;
 
-    top: 19.2vw;
-    left: 73.2vw;
+    top: 54.7vw;
+    left: 64.2vw;
     transform: rotate(-11.2deg);
 }
 
@@ -254,9 +254,9 @@ footer img {
     background-image: url(billeder/bogstaver/p.png);
     background-size: 100%;
 
-    top: 30vw;
-    left: 30vw;
-    transform: rotate(-18.2deg);
+    top: 75vw;
+    left: 26.4vw;
+    transform: rotate(-12.2deg);
 }
 
 #o3 {
@@ -266,8 +266,8 @@ footer img {
     background-image: url(billeder/bogstaver/o.png);
     background-size: 100%;
 
-    top: 28.5vw;
-    left: 35vw;
+    top: 71.5vw;
+    left: 32.3vw;
     transform: rotate(-2.2deg);
 }
 
@@ -278,9 +278,9 @@ footer img {
     background-image: url(billeder/bogstaver/r.png);
     background-size: 100%;
 
-    top: 30vw;
-    left: 40vw;
-    transform: rotate(35.8deg);
+    top: 73vw;
+    left: 39.5vw;
+    transform: rotate(25.8deg);
 }
 
 #t2 {
@@ -290,9 +290,9 @@ footer img {
     background-image: url(billeder/bogstaver/t.png);
     background-size: 100%;
 
-    top: 31.5vw;
-    left: 45vw;
-    transform: rotate(8.8deg);
+    top: 75.5vw;
+    left: 46vw;
+    transform: rotate(13.8deg);
 }
 
 #f {
@@ -302,9 +302,9 @@ footer img {
     background-image: url(billeder/bogstaver/f.png);
     background-size: 100%;
 
-    top: 30vw;
-    left: 50vw;
-    transform: rotate(-2.2deg);
+    top: 74vw;
+    left: 53vw;
+    transform: rotate(2.8deg);
 }
 
 #o4 {
@@ -314,8 +314,8 @@ footer img {
     background-image: url(billeder/bogstaver/o.png);
     background-size: 100%;
 
-    top: 29vw;
-    left: 55vw;
+    top: 73vw;
+    left: 59.7vw;
     transform: rotate(-2.2deg);
 }
 
@@ -326,9 +326,9 @@ footer img {
     background-image: url(billeder/bogstaver/l.png);
     background-size: 100%;
 
-    top: 30vw;
-    left: 60vw;
-    transform: rotate(27.8deg);
+    top: 73vw;
+    left: 67vw;
+    transform: rotate(16.8deg)
 }
 
 #i3 {
@@ -338,9 +338,9 @@ footer img {
     background-image: url(billeder/bogstaver/i.png);
     background-size: 100%;
 
-    top: 31vw;
-    left: 65vw;
-    transform: rotate(26.8deg);
+    top: 75vw;
+    left: 72vw;
+    transform: rotate(6.8deg);
 }
 
 #o5 {
@@ -350,9 +350,9 @@ footer img {
     background-image: url(billeder/bogstaver/o.png);
     background-size: 100%;
 
-    top: 29.5vw;
-    left: 69.7vw;
-    transform: rotate(-11.2deg);
+    top: 73.5vw;
+    left: 79.1vw;
+    transform: rotate(0.8deg);
 }
 
 
@@ -461,6 +461,263 @@ footer img {
     #herknap {
         width: 40px;
     }
+
+
+
+
+
+
+    /* FORSIDE */
+
+
+
+    #b {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/b.png);
+        background-size: 100%;
+
+        top: 21.6vw;
+        left: 24.8vw;
+        transform: rotate(-22.2deg);
+    }
+
+    #i {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/i.png);
+        background-size: 100%;
+
+        top: 19.5vw;
+        left: 28.8vw;
+        transform: rotate(-4.2deg);
+    }
+
+    #r {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/r.png);
+        background-size: 100%;
+
+        top: 19.1vw;
+        left: 33.4vw;
+        transform: rotate(11.8deg);
+    }
+
+    #i2 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/i.png);
+        background-size: 100%;
+
+        top: 19.8vw;
+        left: 38.1vw;
+        transform: rotate(24.8deg);
+    }
+
+    #t {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/t.png);
+        background-size: 100%;
+
+        top: 21.2vw;
+        left: 42.6vw;
+        transform: rotate(12.8deg);
+    }
+
+    #a {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/a.png);
+        background-size: 100%;
+
+        top: 19.8vw;
+        left: 47.8vw;
+        transform: rotate(-13.5deg);
+    }
+
+
+    #y {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/y.png);
+        background-size: 100%;
+
+        top: 19vw;
+        left: 55.5vw;
+        transform: rotate(8.8deg);
+    }
+
+    #o {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/o.png);
+        background-size: 100%;
+
+        top: 19.1vw;
+        left: 60vw;
+        transform: rotate(17.8deg);
+    }
+
+    #o2 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/o.png);
+        background-size: 100%;
+
+        top: 20.6vw;
+        left: 64vw;
+        transform: rotate(27.8deg);
+    }
+
+    #n {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/n.png);
+        background-size: 100%;
+
+        top: 20.5vw;
+        left: 69vw;
+        transform: rotate(3.8deg);
+    }
+
+    #s {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/s.png);
+        background-size: 100%;
+
+        top: 19.2vw;
+        left: 73.2vw;
+        transform: rotate(-11.2deg);
+    }
+
+
+    #p {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/p.png);
+        background-size: 100%;
+
+        top: 30vw;
+        left: 30vw;
+        transform: rotate(-18.2deg);
+    }
+
+    #o3 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/o.png);
+        background-size: 100%;
+
+        top: 28.5vw;
+        left: 35vw;
+        transform: rotate(-2.2deg);
+    }
+
+    #r2 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/r.png);
+        background-size: 100%;
+
+        top: 30vw;
+        left: 40vw;
+        transform: rotate(35.8deg);
+    }
+
+    #t2 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/t.png);
+        background-size: 100%;
+
+        top: 31.5vw;
+        left: 45vw;
+        transform: rotate(8.8deg);
+    }
+
+    #f {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/f.png);
+        background-size: 100%;
+
+        top: 30vw;
+        left: 50vw;
+        transform: rotate(-2.2deg);
+    }
+
+    #o4 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/o.png);
+        background-size: 100%;
+
+        top: 29vw;
+        left: 55vw;
+        transform: rotate(-2.2deg);
+    }
+
+    #l {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/l.png);
+        background-size: 100%;
+
+        top: 30vw;
+        left: 60vw;
+        transform: rotate(27.8deg);
+    }
+
+    #i3 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/i.png);
+        background-size: 100%;
+
+        top: 31vw;
+        left: 65vw;
+        transform: rotate(26.8deg);
+    }
+
+    #o5 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-image: url(billeder/bogstaver/o.png);
+        background-size: 100%;
+
+        top: 29.5vw;
+        left: 69.7vw;
+        transform: rotate(-11.2deg);
+    }
+
+
+
+
+
+
 
 
 
