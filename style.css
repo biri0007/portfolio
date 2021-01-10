@@ -405,10 +405,9 @@ footer img {
 
 
 
-/*********** MEDIA QUERY TIL DESKTOP ***********/
+/* MEDIA QUERY TIL desktop....... LAVES OM TIL 'TABLET'..... sørg for at rykke de relevante ting ned i dekstop media query længere nede */
 
-@media screen and (min-width: 600px) {
-
+@media screen and (min-width: 700px) {
 
     p {
         color: #000000;
@@ -483,8 +482,6 @@ footer img {
 
 
     /* FORSIDE */
-
-
 
     #b {
         position: absolute;
@@ -744,7 +741,7 @@ footer img {
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
         gap: 15px 20px;
-        margin: 97px 20px 30px;
+        margin: 97px 70px 30px;
     }
 
     .img2 {
@@ -795,6 +792,9 @@ footer img {
         opacity: 0.2;
     }
 
+    #portfoliofooter_link {
+        visibility: hidden;
+    }
 
 
 
@@ -809,18 +809,16 @@ footer img {
 
 
     /* OM TEMAERNE */
-
-
     #om_tema1 {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 110px 80px 0px 80px;
+        margin: 110px 50px 0px;
     }
 
     #om_tema2 {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 0px 80px;
+        margin: 0px 20px;
         padding-bottom: 20px;
     }
 
@@ -839,4 +837,49 @@ footer img {
 #prototype {
     display: flex;
     justify-content: center;
+}
+
+
+@media screen and (min-width:1000px) {
+    #om_tema1 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 110px 150px 0px;
+    }
+}
+
+
+
+@media screen and (min-width:1400px) {
+
+    #portfolio {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        gap: 15px 20px;
+        margin: 97px 200px 30px;
+    }
+
+
+
+    /* OM TEMAERNE */
+    #om_tema1 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 110px 230px 0px;
+    }
+
+    #om_tema2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 0px 130px;
+        padding-bottom: 20px;
+    }
+
+    #prototype {
+        display: flex;
+        justify-content: center;
+    }
+
+
 }
