@@ -798,13 +798,15 @@ footer img {
 
 
 
-
     /* OM MIG */
     #om {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 110px 130px 0px 130px;
+        margin: 110px 40px 0px;
     }
+
+
+
 
 
 
@@ -840,13 +842,30 @@ footer img {
 }
 
 
+
+
+
+
+
 @media screen and (min-width:1000px) {
+
+    /* OM MIG */
+    #om {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 110px 230px 0px;
+    }
+
+
     #om_tema1 {
         display: grid;
         grid-template-columns: 1fr 1fr;
         margin: 110px 150px 0px;
     }
 }
+
+
+
 
 
 
