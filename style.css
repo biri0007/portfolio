@@ -352,6 +352,7 @@ footer img {
 
 
 
+
 /* PORTFOLIO */
 #portfolio {
     margin: 0 15px;
@@ -359,10 +360,23 @@ footer img {
 
 
 
+
 /* OM MIG */
-#om {
-    margin: 0px 30px 40px;
+
+#meee {
+    display: flex;
+    justify-content: center;
 }
+
+#meee img {
+    width: 70%;
+}
+
+#om {
+    margin: 30px 30px 20px;
+}
+
+
 
 
 
@@ -728,12 +742,6 @@ footer img {
 
 
 
-
-
-
-
-
-
     /* PORTFOLIO */
 
     #portfolio {
@@ -798,8 +806,8 @@ footer img {
 
 
 
-    /* OM MIG */
 
+    /* OM MIG */
     #meee {
         display: flex;
         justify-content: center;
@@ -809,10 +817,8 @@ footer img {
     #om {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 20px 40px;
+        margin: 7px 40px;
     }
-
-
 
 
 
@@ -860,7 +866,11 @@ footer img {
     #om {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 20px 190px 0px;
+        margin: 7px 190px 0px;
+    }
+
+    #meee img {
+        width: 60%;
     }
 
 
@@ -887,10 +897,14 @@ footer img {
     }
 
 
+    #meee img {
+        width: 40%;
+    }
+
     #om {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 20px 350px 0px;
+        margin: 7px 350px 0px;
     }
 
 
