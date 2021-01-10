@@ -42,14 +42,8 @@ img {
     height: auto;
 }
 
-
-.hidden {
-    opacity: 0;
-}
-
-
 .hide {
-    visibility: hidden;
+    display: none;
 }
 
 
@@ -771,6 +765,31 @@ footer img {
         grid-column: 2/3;
         grid-row: 2/3;
     }
+
+
+    #tema2,
+    #tema3,
+    #tema4,
+    #tema5 {
+        position: relative;
+    }
+
+    #tema2hover,
+    #tema3hover,
+    #tema4hover,
+    #tema5hover {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 18px;
+    }
+
+    .opacity {
+        opacity: 0.5;
+    }
+
+
 
 
 
