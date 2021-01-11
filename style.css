@@ -390,7 +390,7 @@ footer img {
 }
 
 
-#picinfo {
+.picinfo {
     text-align: center;
 }
 
@@ -828,7 +828,7 @@ footer img {
     #om_tema1 {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 110px 50px 0px;
+        margin: 80px 50px 0px;
     }
 
     #om_tema2 {
@@ -881,7 +881,7 @@ footer img {
     #om_tema1 {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 110px 150px 0px;
+        margin: 80px 150px 0px;
     }
 }
 
@@ -917,7 +917,7 @@ footer img {
     #om_tema1 {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin: 110px 230px 0px;
+        margin: 80px 230px 0px;
     }
 
     #om_tema2 {
