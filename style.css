@@ -471,9 +471,8 @@ footer img {
     }
 
     nav a:hover:nth-child(odd) {
-        color: #000000;
+        color: #8d8d8d;
         /*text-decoration: underline;*/
-        border-bottom: 1px solid #989898;
     }
 
 
